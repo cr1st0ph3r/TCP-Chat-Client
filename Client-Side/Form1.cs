@@ -1,4 +1,11 @@
-﻿using System;
+﻿//=========================================//
+//                                         //
+// Author : Cristopher Silva               //
+// cr1st0ph3r@live.com                     //
+//                                         //
+//=========================================//
+
+using System;
 using System.Configuration;
 using System.Diagnostics;
 using System.Drawing;
